@@ -1,2 +1,9 @@
 just a sample
 used in organizations
+
+List of devops tools
+Docker
+Terraform
+Kubernetes
+Jenkins
+Sonarcube
