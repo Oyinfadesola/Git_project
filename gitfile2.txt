@@ -1,6 +1,6 @@
 just a sample
 used in organizations
-
+devops is great
 List of devops tools
 Docker
 Terraform
