@@ -8,3 +8,4 @@ Kubernetes
 Jenkins
 Sonarcube
 Ansible
+Maven
